@@ -46,7 +46,7 @@ function TableUser() {
                     <th>Opcion</th>
                 </tr>
             </thead>
-            <tbody className="font">
+            <tbody className="font blankTable">
                 {
                     
                     listUsers.map((user) => (
